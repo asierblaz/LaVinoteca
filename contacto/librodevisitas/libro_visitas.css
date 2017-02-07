@@ -1,0 +1,45 @@
+table.comentarios
+{
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.cabecera_comentario
+{
+	background-color: chocolate;
+}
+
+.fecha
+{
+	font-style: italic;
+}
+
+.nombre
+{
+	font-weight: bold;
+	font-size: 1.2em;
+	color: beige;
+}
+
+.email
+{
+	text-decoration: underline;
+	font: 0.8em monospace;
+}
+
+.comentario
+{
+	text-align: justify;
+	text-indent: 2em;
+}
+
+span
+{
+	padding: 1em;	
+}
+
+a.mas
+{
+	font-size: 0.75em;
+}

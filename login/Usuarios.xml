@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<usuario>
+	<Usuario>
+		<Nombre>Gonzalo</Nombre>
+		<Password>304294d67f9c0088568b560b9537703f</Password>
+		<Correo>gmontero005@ikasle.ehu.es</Correo>
+	</Usuario>
+	<Usuario>
+		<Nombre>Prueba</Nombre>
+		<Password>304294d67f9c0088568b560b9537703f</Password>
+		<Correo>prueba@prueba.com</Correo>
+	</Usuario>
+<Usuario><Nombre/><Password>d41d8cd98f00b204e9800998ecf8427e</Password><Correo/></Usuario><Usuario><Nombre>Asier</Nombre><Password>df574d081f3c8ec0eccb48659190fc21</Password><Correo>asier@asier.com</Correo></Usuario><Usuario><Nombre/><Password>d41d8cd98f00b204e9800998ecf8427e</Password><Correo/></Usuario><Usuario><Nombre>Pepe</Nombre><Password>623f0d03dce32dc3185dc34251239bcb</Password><Correo>pepe@pepe.com</Correo></Usuario><Usuario><Nombre>Pepe</Nombre><Password>623f0d03dce32dc3185dc34251239bcb</Password><Correo>pepe@pepe.com</Correo></Usuario><Usuario><Nombre>Pepe</Nombre><Password>623f0d03dce32dc3185dc34251239bcb</Password><Correo>pepe@pepe.com</Correo></Usuario><Usuario><Nombre>Pepe</Nombre><Password>623f0d03dce32dc3185dc34251239bcb</Password><Correo>pepe@pepe.com</Correo></Usuario><Usuario><Nombre>Pepe</Nombre><Password>623f0d03dce32dc3185dc34251239bcb</Password><Correo>pepe@pepe.com</Correo></Usuario><Usuario><Nombre>Pepe</Nombre><Password>623f0d03dce32dc3185dc34251239bcb</Password><Correo>pepe@pepe.com</Correo></Usuario><Usuario><Nombre>Pepe</Nombre><Password>623f0d03dce32dc3185dc34251239bcb</Password><Correo>pepe@pepe.com</Correo></Usuario><Usuario><Nombre>Maik</Nombre><Password>4d07ce65e4bdce1c7a2817c6eb8b5a0a</Password><Correo>lfkajsl@gm.com</Correo></Usuario><Usuario><Nombre>Manuel</Nombre><Password>b5cc43f9fa4476dc9896ee406427bf85</Password><Correo>asdfndklg@gmail.com</Correo></Usuario><Usuario><Nombre>Miguel</Nombre><Password>0eb2f841f89fe156db86cf48b658c7b7</Password><Correo>miguel@mi.com</Correo></Usuario></usuario>
